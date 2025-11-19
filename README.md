@@ -31,7 +31,7 @@ cd git-practice
 
 ---
 
-## FE
+## 프론트엔드
 
 ### 1. 루트로 이동
 
@@ -65,7 +65,7 @@ git push -u origin feature/fe-작업명
 
 ---
 
-## BE
+## 백엔드
 
 ### 1. 루트로 이동
 
